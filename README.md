@@ -6,9 +6,9 @@
 ## I'm a B-tech Sophomore!
 
 - 🔭 I’m currently working on flutter app development!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything.
 - 🥅 2020 Goals: Boost my CP skills at codechef and codeforces.
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to do poetry.
 
 ### Connect with me:
 
