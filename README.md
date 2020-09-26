@@ -1,4 +1,4 @@
-## I'm Jai Lodha 👋
+## Hey there, I'm Jai Lodha 👋
 
 [![Website](https://img.shields.io/website?label=heisenberg.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://heisenberg01010.github.io/)
 
