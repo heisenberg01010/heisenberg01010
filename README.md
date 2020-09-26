@@ -36,5 +36,5 @@
 
 
 
-[instagram]: https://instagram.com/mai_jai
+[instagram]: https://instagram.com/mai_jai_
 [linkedin]: https://www.linkedin.com/in/jai-lodha-3b63b4197/
