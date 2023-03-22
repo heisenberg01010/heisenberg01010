@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=heisenberg.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://heisenberg01010.github.io/)
 
 
-## I'm a B-tech Sophomore!
+## I'm a B-tech student!
 
 - 🔭 I’m currently working on Android app development!
 - 🌱 I’m currently learning everything.
